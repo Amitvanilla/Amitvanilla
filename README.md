@@ -21,7 +21,6 @@
 - 🧠 Building **Day Note**, an AI **meeting note taker**, and the core web frontend
 - 🛠️ On the side: **Aside**, an AI screen assistant for macOS, and **Koach**, an AI fitness coach
 - ⚙️ Automating my own workflow — an agent that triages my tickets and opens PRs for quick fixes
-- 🚀 Long game: founding my own company
 
 ### 🧰 Tech stack
 
@@ -43,7 +42,6 @@
 
 | Project | What it does |
 | --- | --- |
-| 🗒️ **Day Note** | AI-assisted daily notes — capture, summarize, organize your day |
 | 🎙️ **Meeting Note Taker** | Joins your meetings and returns summaries and action items |
 | 🪄 **Aside** | An AI screen assistant for macOS |
 | 💪 **Koach** | An AI fitness coach app |
@@ -53,21 +51,13 @@
 
 | | Achievement |
 | --- | --- |
-| 🏅 | **IRONMAN 70.3 Goa finisher** (Nov 2026) — 1.9 km swim · 90 km bike · 21.1 km run, on an entry-level road bike |
+| 🏅 | **IRONMAN 70.3 Goa finisher**, India |
 | 🏅 | **IRONMAN 70.3 Colombo finisher**, Sri Lanka |
-| 🏔️ | **Ladakh Marathon** (Sept 2026) — one of the highest-altitude marathons in the world |
-| 🏍️ | **Zanskar → Spiti → Leh** — a 4-week ride across the Himalaya |
-| 🥾 | **Annapurna trek**, Nepal (2026) |
-| 🎯 | **Next up:** Boston and the World Marathon Majors |
+| 🏔️ | **Ladakh Marathon** (Sept 2026) —  AT (11000ft) |
+| 🎯 | **Next up:** Tata Mumbai Marathon |
 
 📸 Follow the rides and runs on [Instagram](https://www.instagram.com/ride.run.repeet/) and [YouTube](https://www.youtube.com/@ride.run.repeet).
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amitvanilla&show_icons=true&hide_border=true&theme=transparent&title_color=6366F1&icon_color=EC4899"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Amitvanilla&hide_border=true&theme=transparent&ring=6366F1&fire=EC4899&currStreakLabel=6366F1"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=100&section=footer"/>
