@@ -12,7 +12,6 @@
 - 🤖 Developer at an AI startup, shipping AI-powered products end to end
 - 🧠 Day to day: a central web frontend, **Day Note**, and an AI **note taker**
 - ⚙️ Into developer automation — agents that triage tickets and open PRs for quick fixes
-- 🚀 Long-term goal: build and found my own company
 
 ### Tech stack
 
